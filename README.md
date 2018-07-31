@@ -5,7 +5,7 @@ If you need to download a file to the client browser with javascript, you just n
     
     downloadFile("http://www.adobe.com/content/dam/Adobe/en/accessibility/pdfs/accessing-pdf-sr.pdf");
 
-I shared this code when I was trying to provide [the best solution as **an answer**](https://stackoverflow.com/a/43523297/3669624) to this question on stackoverflow. You can see it working in [this **live DEMO**](https://jsfiddle.net/chsdk/0pvdvssd/).
+I shared this code when I was trying to provide [the best solution as **an answer**](https://stackoverflow.com/a/43523297/3669624) to [this question](https://stackoverflow.com/q/1066452/3669624) on stackoverflow. You can see it working in [this **live DEMO**](https://jsfiddle.net/chsdk/0pvdvssd/).
 
 **Notes:**
 
